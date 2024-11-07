@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a ke
 I am a passionate developer with expertise in building web applications, working with various programming languages and frameworks. I'm always looking for ways to improve my skills and contribute to open-source projects.
 
 - 🔧 Passionate about software architecture, clean code, and performance optimization.
-- 🌱 Currently learning more about **web technologies** and **machine learning**.
+- 🌱 Currently learning more about **web technologies**.
 - 🌍 Open to remote opportunities and collaborations!
 
 ## 🛠️ My Skills
